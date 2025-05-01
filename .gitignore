@@ -1,0 +1,9 @@
+# Ignore Python virtual environment
+burglary_env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore data files (e.g., CSV)
+*.csv
